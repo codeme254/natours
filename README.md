@@ -4,4 +4,4 @@
 
 `npm install` - Installs the necessary dependencies
 
-`npm run compile:sass` - Compiles SASS to CSS
+`npm run start` - fire up live server and start watching sass files for changes
